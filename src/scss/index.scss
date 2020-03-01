@@ -1,0 +1,38 @@
+h1 {
+  color: red;
+  box-shadow: 2px 1px 5px #999;
+
+  span {
+    color: blue;
+  }
+}
+
+.img {
+  background-image: url(~001.png);
+  width: 200px;
+  height: 100px;
+}
+
+.base64 {
+  background-image: url(~search.png);
+  width: 200px;
+  height: 100px;
+}
+
+.jpgBox {
+  background-image: url(~cat.jpg);
+  width: 200px;
+  height: 100px;
+}
+
+.svgBox {
+  background-image: url(~Card.svg);
+  width: 200px;
+  height: 100px;
+}
+
+.gifBox {
+  background-image: url(~moveCat.gif);
+  width: 200px;
+  height: 100px;
+}
